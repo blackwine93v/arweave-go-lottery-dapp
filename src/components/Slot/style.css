@@ -1,0 +1,47 @@
+.Slots {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Slots > .Slots-group {
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+.Slots > .Slots-group > .Slot {
+  display: inline-block;
+  margin: 5px;
+  font-size: inherit;
+}
+
+.Slots > .Slots-roll-btn {
+  width: 150px;
+}
+
+@media screen and (min-width: 998px) {
+  .Slots {
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width: 997px) {
+  .Slots {
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 593px) {
+  .Slots {
+    font-size: 40px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .Slots {
+    font-size: 30px;
+  }
+}
+

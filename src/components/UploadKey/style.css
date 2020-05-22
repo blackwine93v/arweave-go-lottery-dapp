@@ -1,0 +1,11 @@
+.UploadKey {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  border: solid 1px rgb(233, 219, 31);
+  border-radius: 3px;
+  max-width: 500px;
+  padding: 5px 10px;
+  text-align: center;
+  background-color: #f3f3f3;
+}

@@ -6,6 +6,8 @@ Play and win a lottery today! The result will be stored on the blockchain.
 
 ### How to play
 
+Visit the game here: [https://w7sdao33pj72.arweave.net/i-SI2ZvH_N_cKUa_Moc_Bwfige9fUWDpQ0XZ34U8GYc](https://w7sdao33pj72.arweave.net/i-SI2ZvH_N_cKUa_Moc_Bwfige9fUWDpQ0XZ34U8GYc)
+
 Just click the button named "LET'S GO" and you will see the loterry result, this result will be stored on blockchain if you import you wallet before playing.
 The game has 4 modes: 1 slot, 2 slots, 3 slots (default), 4 slots.
 
